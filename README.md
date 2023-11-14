@@ -21,5 +21,5 @@ Para rodar o código no seu computador você pode: (i) clonar código via git; (
 <p> Após essa etapa, você irá instalar todas as depedências(bibliotecas) necessárias digitando em seu terminal " pip install -r requirements.txt ".<p>
 
 # Contato:
-https://linktr.ee/bernardoalemar
-https://www.linkedin.com/in/bernardo-alemar-9117a11a2/
+<p>https://linktr.ee/bernardoalemar<p>
+<p>https://www.linkedin.com/in/bernardo-alemar-9117a11a2/<p>
