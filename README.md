@@ -17,8 +17,8 @@ Roda relatório de classificação, score roc auc da base de teste e matriz de c
 
 # Como rodo o código no meu computador?
 Para rodar o código no seu computador você pode: (i) clonar código via git (ii) fazer download do zip. 
-(i) https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-Após essa etapa, você irá instalar todas as depedências(bibliotecas) necessárias digitando em seu terminal " pip install -r requirements.txt ".
+(i) https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository.
+<p>Após essa etapa, você irá instalar todas as depedências(bibliotecas) necessárias digitando em seu terminal " pip install -r requirements.txt ".<p>
 
 # Contato:
 https://linktr.ee/bernardoalemar
