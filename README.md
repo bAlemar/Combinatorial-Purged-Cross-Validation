@@ -16,9 +16,9 @@ Função da Combinatorial Purged Cross Validation no sklearn.
 Roda relatório de classificação, score roc auc da base de teste e matriz de confusão dos modelos salvos.
 
 # Como rodo o código no meu computador?
-Para rodar o código no seu computador você pode: (i) clonar código via git (ii) fazer download do zip. 
-(i) https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository.
-<p>Após essa etapa, você irá instalar todas as depedências(bibliotecas) necessárias digitando em seu terminal " pip install -r requirements.txt ".<p>
+Para rodar o código no seu computador você pode: (i) clonar código via git; (ii) fazer download do zip. 
+<p> (i) https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository. <p>
+<p> Após essa etapa, você irá instalar todas as depedências(bibliotecas) necessárias digitando em seu terminal " pip install -r requirements.txt ".<p>
 
 # Contato:
 https://linktr.ee/bernardoalemar
