@@ -1,6 +1,6 @@
 # Combinatorial-Purged-Cross-Validation
 #### Artigo: https://medium.com/@balemar/combinatorial-purged-cross-validation-48fc748d006e
-Uma alternativa as diversas validações cruzadas usadas na literatura de predição do movimento de mercado.O projeto tem como objetivo disponibilizar a Combinatorial Purged CrossValidation e mostrar como ela pode ser crucial na busca pelos hiperparâmetros.
+Uma alternativa as diversas validações cruzadas usadas na literatura de predição do movimento de mercado. O projeto tem como objetivo disponibilizar a Combinatorial Purged CrossValidation e mostrar como ela pode ser crucial na busca pelos hiperparâmetros.
 
 
 # Descrição do Projeto
